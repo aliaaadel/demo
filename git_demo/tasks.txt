@@ -1,5 +1,5 @@
-TODO: Perform Data preprocessing
-TODO: Perform Modeling
+TODO: Perform Data preprocessing (done)
+TODO: Perform Modeling(to do)
 TODO: Evaluate Model
 
 Developers:
